@@ -1,6 +1,7 @@
 # Covid 19 in Canada (Data Analysis)
 
 ![covid](https://github.com/Joshua-omolewa/Covid-19-analysis/blob/main/Covid%20Dataset/images/covid%2019%20.gif)
+
 Covid 19 in Canada Data Analysis
 
 # Data Sources
