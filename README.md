@@ -3,7 +3,7 @@
 ![covid](https://github.com/Joshua-omolewa/Covid-19-analysis/blob/main/Covid%20Dataset/images/covid%2019%20.gif)
 
 ## BRIEF INFO ON COVID-19
-Coronavirus (COVID) is a family of viruses that are named after their spiky crown as shown in the image above. The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus.There are many variant of the virus. This project aims at exploring COVID-19 in Canada through data analysis.
+Coronavirus (COVID) is a family of viruses that are named after their spiky crown as shown in the image above. The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus.There are many variant of the virus. This project aims at exploring the effect of COVID-19 in Canada through data analysis.
 
 # Data Sources
 This repository contains data and code used to get and clean data from 
