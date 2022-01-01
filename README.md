@@ -5,7 +5,8 @@
 ## BRIEF INFO ON COVID-19
 Coronavirus (COVID) is a family of viruses that are named after their spiky crown as shown in the image above. The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus.There are many variant of the virus. This project aims at exploring the effect of COVID-19 in Canada through data analysis.
 
-#PLEASE note this project is in progress (i.e Currently working on the project)
+# PLEASE note this project is in progress (i.e Currently working on the project)
+
 # Data Sources
 This repository contains data and code used to get and clean data from 
 1. https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html 
