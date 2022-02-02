@@ -10,6 +10,6 @@ Coronavirus (COVID) is a family of viruses that are named after their spiky crow
 # Data Sources
 This repository contains data and code used to get and clean data from 
 1. https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html 
-2. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+2. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 (**Population Data**)
 3. https://health-infobase.canada.ca/covid-19/vaccination-coverage/#a5
 4. https://open.canada.ca/data/en/dataset/261c32ab-4cfd-4f81-9dea-7b64065690dc  (**Data Dictionary**)
