@@ -1,4 +1,4 @@
-# Covid 19 in Canada (Data Analysis)
+# Covid 19 in Canada (Exploratory Data Analysis)
 
 ![covid](https://github.com/Joshua-omolewa/Covid-19-analysis/blob/main/Covid%20Dataset/images/covid%2019%20.gif)
 
