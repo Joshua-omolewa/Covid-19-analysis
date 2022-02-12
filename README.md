@@ -10,7 +10,7 @@ Coronavirus (COVID) is a family of viruses that are named after their spiky crow
 # Data Sources and code Used
 ***Python Version:*** 3.7
 
-***Packages:*** pandas, numpy, matplotlib, seaborn, plotly
+***Packages:*** pandas, numpy, matplotlib, seaborn, plotly, dash
 
 This repository contains data and notebooks used to obtain  data from  the following sources
 
