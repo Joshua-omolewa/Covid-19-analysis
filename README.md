@@ -1,5 +1,6 @@
 # Covid 19 in Canada (Exploratory Data Analysis)
 
+# Author : Joshua Omolewa
 ![covid](https://github.com/Joshua-omolewa/Covid-19-analysis/blob/main/Covid%20Dataset/images/covid%2019%20.gif)
 
 ## BRIEF OVERVIEW ON COVID-19
